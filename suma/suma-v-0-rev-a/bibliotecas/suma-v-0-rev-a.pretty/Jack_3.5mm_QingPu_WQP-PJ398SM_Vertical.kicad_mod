@@ -307,7 +307,7 @@
 			)
 		)
 	)
-	(pad "S" thru_hole oval
+	(pad "1" thru_hole oval
 		(at 0 6.5)
 		(size 3.1 2.3)
 		(drill oval 1.2 1)
@@ -315,7 +315,7 @@
 		(remove_unused_layers no)
 		(uuid "a73c05fa-2186-4d5d-ad9b-d0315e8d4ac2")
 	)
-	(pad "T" thru_hole roundrect
+	(pad "3" thru_hole roundrect
 		(at 0 -4.92)
 		(size 2.6 2.6)
 		(drill oval 1.2 0.6)
@@ -324,7 +324,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "250111f6-50bd-485b-8131-8ea1b13cb2ce")
 	)
-	(pad "TN" thru_hole roundrect
+	(pad "2" thru_hole roundrect
 		(at 0 3.38)
 		(size 2.6 2.6)
 		(drill oval 1.2 0.6)

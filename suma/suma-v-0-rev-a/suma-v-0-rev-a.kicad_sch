@@ -1236,17 +1236,6 @@
 		)
 		(uuid "17279c80-8c60-41c8-9a57-102f7b2cdbbd")
 	)
-	(text "entrada-cuatro"
-		(exclude_from_sim no)
-		(at 26.416 112.014 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1862e10f-5101-4db8-a6bd-535a10d4b8ed")
-	)
 	(text "entrada-uno"
 		(exclude_from_sim no)
 		(at 26.67 35.306 0)
@@ -1279,12 +1268,6 @@
 			(justify left)
 		)
 		(uuid "d909473f-9333-49c9-93cd-428eef17532b")
-	)
-	(junction
-		(at 43.18 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e4470fa-3716-4e12-ae2a-ec062203fe53")
 	)
 	(junction
 		(at 92.71 54.61)
@@ -1340,12 +1323,6 @@
 		(color 0 0 0 0)
 		(uuid "dd239f24-2df7-4e18-912d-08688b27e76d")
 	)
-	(junction
-		(at 85.09 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed95f96c-c8e8-45e5-a40d-9a9961076221")
-	)
 	(no_connect
 		(at 59.69 88.9)
 		(uuid "6104cf88-b3f3-4de8-80a2-083ddc4a5239")
@@ -1365,10 +1342,6 @@
 	(no_connect
 		(at 179.07 66.04)
 		(uuid "d9c8caaa-c391-40f0-8b8f-bba48928b9db")
-	)
-	(no_connect
-		(at 59.69 114.3)
-		(uuid "dc281e04-8048-448c-a3b3-f9b3e8c15307")
 	)
 	(wire
 		(pts
@@ -1512,16 +1485,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 130.81) (xy 85.09 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b697f84-1888-48e4-ba69-ac21232de262")
-	)
-	(wire
-		(pts
 			(xy 139.7 71.12) (xy 137.16 71.12)
 		)
 		(stroke
@@ -1559,16 +1522,6 @@
 			(type default)
 		)
 		(uuid "4d6ee110-4649-4a58-98c2-04afed5937bb")
-	)
-	(wire
-		(pts
-			(xy 34.29 120.65) (xy 43.18 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5186e21a-c23e-4858-b308-f9153b58e0cd")
 	)
 	(wire
 		(pts
@@ -1649,16 +1602,6 @@
 			(type default)
 		)
 		(uuid "69e21d70-6dcd-46a6-95ef-961c7ae393ff")
-	)
-	(wire
-		(pts
-			(xy 78.74 130.81) (xy 85.09 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69f55dfc-d08f-41ce-9308-915a92055c49")
 	)
 	(wire
 		(pts
@@ -1832,16 +1775,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 130.81) (xy 59.69 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2f9cde7-fbbe-480b-9a4f-264b7d45d640")
-	)
-	(wire
-		(pts
 			(xy 34.29 44.45) (xy 43.18 44.45)
 		)
 		(stroke
@@ -1869,16 +1802,6 @@
 			(type default)
 		)
 		(uuid "cb6471c0-8f0f-4a50-900a-7c34999e4eda")
-	)
-	(wire
-		(pts
-			(xy 71.12 130.81) (xy 59.69 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccef254a-4c50-464f-8707-e996ffad8211")
 	)
 	(wire
 		(pts
@@ -1912,26 +1835,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 115.57) (xy 43.18 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da699b49-d284-4eed-bb94-c2c66567422a")
-	)
-	(wire
-		(pts
-			(xy 34.29 118.11) (xy 55.88 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "daf1a45b-686b-46a0-92db-1e40095924a0")
-	)
-	(wire
-		(pts
 			(xy 137.16 71.12) (xy 137.16 72.39)
 		)
 		(stroke
@@ -1949,16 +1852,6 @@
 			(type default)
 		)
 		(uuid "de974714-7698-4ee8-a76c-4cc57e4dde55")
-	)
-	(wire
-		(pts
-			(xy 34.29 115.57) (xy 43.18 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e12b0949-042b-4b24-b87e-085fc073fa8d")
 	)
 	(wire
 		(pts
@@ -1989,16 +1882,6 @@
 			(type default)
 		)
 		(uuid "ea85fa1e-7b52-4b29-a7c3-e235bdd5c05a")
-	)
-	(wire
-		(pts
-			(xy 43.18 120.65) (xy 43.18 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ecedbe69-cdce-4af0-9f70-0d8057a1225f")
 	)
 	(wire
 		(pts
@@ -2193,7 +2076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bbe837b-5c2e-45c1-a70d-91870f5bfaba")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR05"
 			(at 125.73 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -2253,7 +2136,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR06")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -2350,7 +2233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1751d2c3-3b7f-4fe1-8695-e12263cdcf2f")
-		(property "Reference" "J5"
+		(property "Reference" "J4"
 			(at 184.785 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2415,7 +2298,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "J5")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -2551,7 +2434,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bc456d0-ace2-4156-8639-3278d06a2761")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR06"
 			(at 125.73 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -2611,7 +2494,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR07")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2629,7 +2512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d24de2f-b4f5-4008-9c84-7e39bf0b7013")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR04"
 			(at 92.71 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2689,87 +2572,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 74.93 130.81 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "422ff415-dfda-4899-a9b4-743722324ed7")
-		(property "Reference" "R4"
-			(at 74.93 124.46 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100k"
-			(at 74.93 127 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "suma-v-0-rev-a:R0805"
-			(at 74.93 129.032 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 74.93 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "92fb1fd7-9ae8-4244-8f62-e08574db33e8")
-		)
-		(pin "2"
-			(uuid "046ec46e-7b6d-4a57-a744-269c9970117c")
-		)
-		(instances
-			(project "suma-v-0-rev-a"
-				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "R4")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2905,7 +2708,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bd1a8e4-f122-43fa-887e-06711c03be4d")
-		(property "Reference" "R9"
+		(property "Reference" "R8"
 			(at 170.18 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2967,7 +2770,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "R9")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -2985,7 +2788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6799b860-c018-48ff-bd49-290ed5c38525")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR09"
 			(at 176.53 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3045,7 +2848,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR010")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -3241,7 +3044,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f8223e7-7ed9-4eba-a57e-9feff4fd0e89")
-		(property "Reference" "R8"
+		(property "Reference" "R7"
 			(at 170.18 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3303,125 +3106,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Potentiometer")
-		(at 59.69 118.11 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "864eede0-5efa-460a-b28d-de0cdcfa64d4")
-		(property "Reference" "RV4"
-			(at 62.23 116.8399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100k"
-			(at 62.23 119.3799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "suma-v-0-rev-a:POT_TH_Alps_RK09K_Single_Vertical"
-			(at 59.69 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 59.69 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 59.69 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "R"
-			(at 59.69 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" "POT"
-			(at 59.69 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
-			(at 59.69 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "278fa407-f167-4392-8dea-8b47218846d3")
-		)
-		(pin "3"
-			(uuid "d418f987-4ec9-493f-952b-99522f87af7b")
-		)
-		(pin "1"
-			(uuid "4ec1a37c-2e11-48b2-8ac6-87732b550859")
-		)
-		(instances
-			(project "suma-v-0-rev-a"
-				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "RV4")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3606,89 +3291,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Audio:AudioJack2_SwitchT")
-		(at 29.21 118.11 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "967b9533-6c99-41ca-9071-509bcaa04acd")
-		(property "Reference" "J4"
-			(at 28.575 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AudioJack2_SwitchT"
-			(at 28.575 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "suma-v-0-rev-a:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical"
-			(at 29.21 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 29.21 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"
-			(at 29.21 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "72052a77-46c2-4d7b-8d67-6d711be89357")
-		)
-		(pin "2"
-			(uuid "deb2d24a-f1df-41bf-b22d-aed048cc4398")
-		)
-		(pin "1"
-			(uuid "69b1af53-6ba8-41dd-8516-57a56c36ffde")
-		)
-		(instances
-			(project "suma-v-0-rev-a"
-				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 128.27 66.04 90)
 		(mirror x)
@@ -3700,7 +3302,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d4fbcc3-52ef-4471-82b7-143917ca49b8")
-		(property "Reference" "R6"
+		(property "Reference" "R5"
 			(at 128.27 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3762,7 +3364,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "R6")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4060,7 +3662,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7aabb23-9c9d-4971-9574-3d97ca2a6381")
-		(property "Reference" "J6"
+		(property "Reference" "J5"
 			(at 184.785 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4125,7 +3727,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "J6")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -4241,7 +3843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec92aa93-b16a-4283-afa5-132ed3fd6c38")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 104.14 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4303,7 +3905,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4321,7 +3923,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef3a7825-5c9a-4651-8e17-90e181f4f898")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 146.05 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4383,7 +3985,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -4552,84 +4154,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 125.73 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f50e52f8-eb39-4acf-928f-a1a595a1ad04")
-		(property "Reference" "#PWR04"
-			(at 43.18 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 43.18 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8fe75755-6df1-473a-9b02-5da51fcea47f")
-		)
-		(instances
-			(project "suma-v-0-rev-a"
-				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 176.53 73.66 0)
 		(unit 1)
 		(body_style 1)
@@ -4640,7 +4164,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5cd38fa-0f9c-4ef3-962b-92b689d843da")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR08"
 			(at 176.53 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -4700,7 +4224,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR09")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -4718,7 +4242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff1bc561-810f-46b9-be0a-2aaf5292bb9a")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR07"
 			(at 137.16 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4778,7 +4302,7 @@
 		(instances
 			(project "suma-v-0-rev-a"
 				(path "/76d7d92c-1316-4bcb-a187-c7124ef49ded"
-					(reference "#PWR08")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
